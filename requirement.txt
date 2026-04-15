@@ -1,8 +1,7 @@
 fastapi
 uvicorn
 pandas
-numpy
 plotly
 streamlit
 requests
-sqlite3
+textblob
